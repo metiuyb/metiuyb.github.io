@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://metiuyb.github.io/sitemap.html.gz
+Sitemap: https://metiuyb.github.io/app/sitemap.html.gz
+Sitemap: https://metiuyb.github.io/assets/sitemap.html.gz
+Sitemap: https://metiuyb.github.io/css/sitemap.html.gz
+Sitemap: https://metiuyb.github.io/data/sitemap.html.gz
+Sitemap: https://metiuyb.github.io/includes/sitemap.html.gz
+Sitemap: https://metiuyb.github.io/item/sitemap.html.gz
+Sitemap: https://metiuyb.github.io/src/sitemap.html.gz
